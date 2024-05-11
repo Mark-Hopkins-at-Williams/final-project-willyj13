@@ -1,9 +1,9 @@
 # CSCI 381 Final Project
 
 Group members:
-- please list your
-- group members
-- here!
+- Will Jackson
+- Nikola Marakovic
+- Yuan Qiu
 
 Also, add any files to this repository that you would need as part of your final project submission.
 
